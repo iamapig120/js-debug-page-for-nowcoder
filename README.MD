@@ -10,7 +10,7 @@ Gitee [https://gitee.com/bysb/js-debug-page-for-nowcoder](https://gitee.com/bysb
 ### 为什么做这个？
 
 蓝桥赛后 => 无所事事 => 随便做题 => 发现牛客网允许使用JavaScript提交，
-并定义了专有输入输出方法 ***readline()*** 和 ***print()***，
+并定义了专有输入输出方法 **readline()** 和 **print()**，
 但是并**没有**提供靠谱测试的随意测试的环境
 
 作为一个自诩为前端汪的大专学渣，怎么能忍受这种没法测试的OJ的存在呢？
